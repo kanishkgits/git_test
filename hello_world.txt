@@ -1,0 +1,8 @@
+basic git workflow
+- git --version 
+- git config --global init.defaultBranch main
+- git status
+- git add file_name
+- git commit -m "message for commit"
+- git remote -v
+- git clone SSH_Link
